@@ -1,4 +1,4 @@
-package com.campominado;
+package com.campinhominado.jeferson;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

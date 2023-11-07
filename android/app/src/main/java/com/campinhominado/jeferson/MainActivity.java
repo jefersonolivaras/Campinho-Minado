@@ -1,4 +1,4 @@
-package com.campominado;
+package com.campinhominado.jeferson;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "campominado";
+    return "Campinho Minado - O Clássico";
   }
 
   /**

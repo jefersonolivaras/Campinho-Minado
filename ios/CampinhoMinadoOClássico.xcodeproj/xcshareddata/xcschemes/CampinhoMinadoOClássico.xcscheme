@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "campominado.app"
-               BlueprintName = "campominado"
-               ReferencedContainer = "container:campominado.xcodeproj">
+               BuildableName = "CampinhoMinadoOClássico.app"
+               BlueprintName = "CampinhoMinadoOClássico"
+               ReferencedContainer = "container:CampinhoMinadoOClássico.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "campominadoTests.xctest"
-               BlueprintName = "campominadoTests"
-               ReferencedContainer = "container:campominado.xcodeproj">
+               BuildableName = "CampinhoMinadoOClássicoTests.xctest"
+               BlueprintName = "CampinhoMinadoOClássicoTests"
+               ReferencedContainer = "container:CampinhoMinadoOClássico.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "campominado.app"
-            BlueprintName = "campominado"
-            ReferencedContainer = "container:campominado.xcodeproj">
+            BuildableName = "CampinhoMinadoOClássico.app"
+            BlueprintName = "CampinhoMinadoOClássico"
+            ReferencedContainer = "container:CampinhoMinadoOClássico.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "campominado.app"
-            BlueprintName = "campominado"
-            ReferencedContainer = "container:campominado.xcodeproj">
+            BuildableName = "CampinhoMinadoOClássico.app"
+            BlueprintName = "CampinhoMinadoOClássico"
+            ReferencedContainer = "container:CampinhoMinadoOClássico.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
